@@ -19,13 +19,7 @@ Fully responsive layout
 
 📸 Screenshots
 
-<img width="828" height="1792" alt="home" src="https://github.com/user-attachments/assets/3ba95696-2413-40d1-a418-a1e878c85f3c" />
-
-
-<img width="828" height="1792" alt="login" src="https://github.com/user-attachments/assets/e5fc30a6-4569-41c2-a0be-8c17bc4b6d50" />
-
-
-<img width="828" height="1792" alt="signup" src="https://github.com/user-attachments/assets/51150ce1-4713-41d7-add1-36621c60e334" />
+<img width="828" height="1792" alt="home" src="https://github.com/user-attachments/assets/3ba95696-2413-40d1-a418-a1e878c85f3c" /> <img width="828" height="1792" alt="login" src="https://github.com/user-attachments/assets/e5fc30a6-4569-41c2-a0be-8c17bc4b6d50" /> <img width="828" height="1792" alt="signup" src="https://github.com/user-attachments/assets/51150ce1-4713-41d7-add1-36621c60e334" />
 
 
 📌 Notes
