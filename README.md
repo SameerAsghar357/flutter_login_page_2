@@ -2,6 +2,8 @@ Flutter Login & Sign Up UI
 
 A modern and responsive login/sign-up flow built with Flutter. This beginner-friendly project helps practice form validation, navigation, and clean UI design in Flutter apps.
 
+---
+
 📱 Features
 
 Welcome Screen with illustration and navigation buttons
@@ -16,6 +18,7 @@ Simple and minimal UI for practice
 
 Fully responsive layout
 
+---
 
 📸 Screenshots
 
@@ -25,6 +28,7 @@ Fully responsive layout
   <img src="./assets/signup.png" width="220" />
 </p>
 
+---
 
 📌 Notes
 
@@ -35,6 +39,8 @@ Focuses on UI layout, form fields, and navigation between screens.
 This project is based on a YouTube tutorial and was built for learning purposes.
 
 All code is written manually for better understanding.
+
+---
 
 🧑‍💻 Author
 
